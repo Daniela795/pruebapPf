@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0; padding: 0;
+}
+
+body { 
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin-bottom: 0;
+}
+.subtitulo{
+    text-align: center;
+    margin-bottom: 0;
+}
+.header{
+    background-position: center;
+}
+.user{
+    text-align: center;
+    margin-bottom: 0;
+}
+.carta{
+    text-align: center;
+    margin-bottom: 0;
+}
